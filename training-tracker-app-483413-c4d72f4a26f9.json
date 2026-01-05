@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "training-tracker-app-483413",
+  "private_key_id": "c4d72f4a26f9a449eb3649cb927a6ee92859c04c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUSIztMfoOCalF\nbNmi/2TVSSMGePgKjkp5oJfrBIOdnZeC2gKZNmomgXczu7rrH/LsuGo3f03ECQxB\nU6/zq+Nf15iZEpOqOJbt61euXn4AEYjO3Btv7y5jfaY/wZukR6Kx32PaF2E7+Xad\njZXglyHEXZxZxMikpBBLfuQ8NrfRfJxvgzLMbDR6z9QCj8YDxjPJugAH/RheL4gr\nsQfKOcYEDufv0BLDaUORmrhDM3+3lMSsB3A65WmtU8MKeNTmtVvDZt9En9AZtirZ\n+pA4+UZQiED2qZt289cYV6hFpUtuD8xnSU9ZFd3vgXGA/dUMEkaRNP5+B5tDN3rB\n3I6sAzPzAgMBAAECggEAAQ762+Sb8DFhy8o+TCYTk7GHy6TdwcGInDv+aaHoyJ1r\n4UtqHQA2RhvC0ek4qTNbWhTqQ9wnniB3Exj5rBJ24ePERe92g2QPsRdu0vf/YUO+\nx29AeOOVtVsbw9+/cIRHD+BUMlCGvqqwuJOJVYbuqZwGIN6WlL+hEtDkkzN2y3WG\npguupTjBLHtrpqXuHD7agZy1sB2bfZhtJbIOyLqmYUigt3/4yGf8JxyEiLKrPHnA\noasoV+GaljkWIWxJ2xOaDoTtib6nFPv/I9gqbsfUywa7rHD/gS4uVIvs6fOuS+Pp\nOIwnss21LRpJnhNwdzz2jWJBf6S9vdLNzOQVDQHLdQKBgQDHgTyAPYAyOlgbeifO\n/DR8i1jAP/sytK6arqHML7PxP9SUPfz81XBh3BQZbTLGKeqetE5fpUrSe2YJw8Jn\nJTUUlF4KXv6ujWUDzuyjuHmsCVSgAh7SehFJ9XUokO6aq45itjuJXQ5EvTd5ppeh\nN1F0nMg9buft+qPUv+nr3ovUXQKBgQC+RhqLB6KO75zEQpfi3ox4hDZnLy0Rayr5\npIdDkEDS4ztUchA3vZSetxL9Ylc4D4paFh3tFgsO8eb2vYADCKkneIzzLB1CNtGt\nYJ2YccMM/sYrfBA9t9X1tcKZrIuCBrODKMbd/i27Og+SDojtU75KPawz74dAoNWE\ny5C36YykjwKBgH6iQsPnxbqcHBb8183jenFfhesp8YnC9F2M4XiZAu/sI0QhgLb/\nyADl0AA/tw3fx2QLcP/3DGJEH4WtM3WDQYkZkAOnPqOPboIXU0+spdaUaZnTHrtc\n7iJy4nXoYPveT1fK8kmDvq3VKSRXoUGcumB5sASGpEMDaAB//LxSG5GlAoGBAJSE\nveU1oXJ2n+Qlos7oLbdIY/qovUHyZ8oS3a4kJCU4TzA8FGKd7Srx9bWolDHjF3f3\n+YX9Bca1lTWVdx1nHjn8A/EvxurPRV1So9DBQ6GaIG8C2N6D51Nye6JeJ0roFijT\npF7VLzcMO+kixUiSbF8gwpCLcARHRkLwblbPywMLAoGABxlCi0jhADjsU8Qo7N+Q\nDjhrLTKV0J7MG9sWvzV/JmsN372yqMRZNFGhslT1brY3FqctjqsCUpMHgHsOUNcc\nCKVYXr77Mp8HUxGlwWdsGJQFOH2rUUZGkb6c2zZ6qSF1yBDCy76yCixzgMMxxxv6\nP72iHvKKgACMjF7uAmPOJlQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "training-tracker-service@training-tracker-app-483413.iam.gserviceaccount.com",
+  "client_id": "108410526809131189915",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/training-tracker-service%40training-tracker-app-483413.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
